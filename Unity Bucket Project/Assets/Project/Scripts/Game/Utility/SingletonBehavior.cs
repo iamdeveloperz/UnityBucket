@@ -1,6 +1,9 @@
 
 using UnityEngine;
 
+// Udemy 참고 자료
+// https://www.udemy.com/course/best-3d-c-unity/?couponCode=CP251120G2
+
 /*
  * Generic Singleton (제네릭 싱글톤)
  *
